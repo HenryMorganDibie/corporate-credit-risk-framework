@@ -1,0 +1,9 @@
+﻿@
+# Ignore original client files
+*.pdf
+!data-redacted/*.pdf
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+@
