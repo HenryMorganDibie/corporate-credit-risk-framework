@@ -42,14 +42,26 @@ A credit score is a lagging indicator. To ensure long-term improvement, I implem
 
 ## 📂 Repository Contents
 
-| Folder / File | Description |
-| :--- | :--- |
-| `data-redacted/` | **Construction Sector Credit Risk Analysis – Sample.pdf** — A fully redacted client report demonstrating the complete analytical methodology across a real V-shaped recovery case study. All identifying information removed in compliance with NDA. |
-| `methodology/audit-workflow.md` | The 5-phase governance workflow: Baseline Forensic Audit → Strategy Mapping → Implementation → 6-Month Progress Audit → Bureau Submission. |
-| `methodology/dispute-strategy-guide.md` | The 5-step forensic dispute protocol: Ghost Risk ID, Delinquency Categorisation, Contra-Settlement Defence, Evidence Packaging, Rating Parity Challenge. |
-| `methodology/financial-ratio-logic.md` | Ratio analysis methodology with sector-specific interpretation for construction: liquidity anchors, debt quality differentiation, and the DSO/DPO mismatch framework. |
+### `data-redacted/` — Full Client Deliverable Suite (Redacted)
 
-> **Note on proprietary tools:** The Working Audit Kit (structured Excel model with auto-calculating ratio comparisons, progress tracker, and 11-point recommendation checklist) and detailed reporting templates are not included in this public repository. These are developed bespoke for each client engagement.
+All four documents below are drawn from the same real engagement. All identifying information has been removed in compliance with a binding NDA. See [`data-redacted/README.md`](data-redacted/README.md) for a full description of each file.
+
+| File | Type | Description |
+| :--- | :---: | :--- |
+| `Construction Sector Credit Risk Analysis – Sample.pdf` | PDF | Primary client-facing report: 3-year financials, full ratio analysis, payment behaviour calendar, and the 5-step forensic dispute strategy. |
+| `Construction_Sector_Credit_Report_Sample.docx` | DOCX | Full-length source document: extended narrative, SCCB rating factor breakdown, litigation analysis, governance assessment, and complete 11-point recommendation roadmap. |
+| `Construction_Sector_Credit_Progress_Audit_Sample.docx` | DOCX | 6-month follow-up audit: tracks all 11 recommendations against baseline metrics using the Green/Amber/Red verdict framework, with the next action plan for the following cycle. |
+| `Corporate_Credit_Risk_Audit_Kit_Sample.xlsx` | XLSX | Working model handed to the client: Data Entry → Ratio Calculator (auto-updating) → Progress Tracker (before/after with scenario narratives) → Recommendation Checklist (dropdown status tracking). |
+
+### `methodology/` — Framework Documentation
+
+| File | Description |
+| :--- | :--- |
+| `audit-workflow.md` | The 5-phase governance workflow: Baseline Forensic Audit → Strategy Mapping → Implementation → 6-Month Progress Audit → Bureau Submission. |
+| `dispute-strategy-guide.md` | The 5-step forensic dispute protocol: Ghost Risk ID, Delinquency Categorisation, Contra-Settlement Defence, Evidence Packaging, Rating Parity Challenge. |
+| `financial-ratio-logic.md` | Ratio analysis methodology with sector-specific interpretation for construction: liquidity anchors, debt quality differentiation, and the DSO/DPO mismatch framework. |
+
+> **Note on proprietary templates:** Detailed audit sheets, scoring models, and bespoke client templates beyond what is shown here are developed privately for each engagement and are not included in this public repository.
 
 ---
 
