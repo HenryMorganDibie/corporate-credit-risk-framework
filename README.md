@@ -89,7 +89,7 @@ This repository is a **Portfolio of Methodology**.
 Specialising in bridging machine learning, data-driven financial auditing, and corporate strategy. Building production ML systems and analytical frameworks for fintech clients globally.
 
 - 🔗 GitHub: [github.com/HenryMorganDibie](https://github.com/HenryMorganDibie)
-- 📝 Medium: [medium.com/@KingHenryMorgan](https://medium.com/@KingHenryMorgan)
+- 📝 Medium: [medium.com/@KingHenryMorgan](medium.com/@KingHenryMorgansDiary)
 - 💼 LinkedIn: [linkedin.com/in/kinghenrymorgan](https://linkedin.com/in/kinghenrymorgan)
 
 ---
